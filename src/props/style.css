@@ -7,6 +7,9 @@
 p{
     margin-left: 10px;
 }
+p:hover{
+    cursor: pointer;
+}
 
 .deskrip{
     font-size: 13px;
