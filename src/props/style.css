@@ -1,0 +1,131 @@
+.wrapper{
+    width: 1100px;
+    min-height: 700px;
+    margin: auto;
+}
+
+p{
+    margin-left: 10px;
+}
+
+.deskrip{
+    font-size: 13px;
+}
+
+.tanggal{
+    margin-top: 10px;
+    color: #666666;
+}
+
+.judul{
+    font-weight: 300;
+    font-weight: bold;
+}
+
+.bagian-kiri{
+    width: 550px;
+    float: left;
+}
+
+.bagian-kiri .atas-kiri{
+    width: 530px;
+    height: 250px;
+    border: solid 1px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.bagian-kiri .atas-kiri img{
+    width: 270px;
+    height: 248px;
+    float: left;
+    margin-right: 5px;
+}
+
+.bagian-kiri .bawahkiri{
+    margin-top: 20px;
+    width: 530px;
+}
+
+.bagian-kiri .bawahkiri .bawah-kiri-kiri{
+    width: 260px;
+    min-height: 200px;
+    float: left;
+    border: solid 1px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.bagian-kiri .bawahkiri .bawah-kiri-kiri img{
+    width: 260px;
+    height: 250px;
+}
+
+.bagian-kiri .bawahkiri .bawah-kiri-kanan {
+    width: 260px;
+    min-height: 200px;
+    float: right;
+    border: solid 1px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.bagian-kiri .bawahkiri .bawah-kiri-kanan img{
+    width: 260px;
+    height: 250px;
+}
+
+.bagian-kanan{
+    width: 550px;
+    float: right; 
+}
+
+.bagian-kanan .atas-kanan{
+    width: 530px;
+    height: 250px;
+    border: solid 1px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.bagian-kanan .atas-kanan img{
+    width: 270px;
+    height: 248px;
+    float: left;
+    margin-right: 5px;
+}
+
+.bagian-kanan .bawahkanan{
+    margin-top: 20px;
+    width: 530px;
+}
+
+.bagian-kanan .bawahkanan .bawah-kanan-kiri{
+    width: 260px;
+    min-height: 200px;
+    float: left;
+    border: solid 1px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.bagian-kanan .bawahkanan .bawah-kanan-kiri img{
+    width: 260px;
+    height: 250px;
+}
+
+.bagian-kanan .bawahkanan .bawah-kanan-kanan {
+    width: 260px;
+    min-height: 200px;
+    float: right;
+    border: solid 1px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.bagian-kanan .bawahkanan .bawah-kanan-kanan img{
+    width: 260px;
+    height: 250px;
+}
+
+
